@@ -1,0 +1,12 @@
+node_modules
+.env
+# Exclude parent directories
+../../Flight Booking and Reservation main project 1/
+../../Ganishwar Portfolio/
+../../Guvi Task/
+../../flight front end/
+../../Grammarly.lnk
+../../Postman.lnk
+
+# Ignore all other unrelated content
+../../*
